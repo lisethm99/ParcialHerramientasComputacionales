@@ -7,8 +7,7 @@ Para recuperarse un poco del tiempo en cuarentena, las cafeterias de la universi
 - Registrar el producto a comprar: código producto, cantidad de unidades y precio del producto. (un solo producto, varias unidades, por ejemplo: producto 076: gaseosa, 3 unidades)
 - Los descuentos están dados de la siguiente forma: los estudiantes tienen un 50 % de descuento mientras que los profesores tienen un 20 % de descuento
 
-### Respuestas punto B
-Las respuestas se encuentran en el siguiente [archivo](Solucion_punto_b.txt)
+
 
 ### Algoritmo Solución punto A
 La solucion se encuentra en el siguiente [archivo](tienda.c)
@@ -25,3 +24,5 @@ Se debera imprimir el valor a pagar por sus productos de la siguiente forma:
 ##### ¿Cómo se calcula?
 Despues de recibir los datos del cliente (Cedula,rol, CodProducto,Cantidad), se calcula el precio total de la compra usando el precio del producto, luego este se multiplica por la cantidad escogida. Despues, este valor se multiplica por el porcentaje de descuento que aplique de acuerdo con el rol del cliente y este valor se guarda. Por ultimo, al precio total se le resta el valor de descuento previmante calculado y se imprime el resultado de la orden de compra.
 
+### Respuestas punto B
+Las respuestas se encuentran en el siguiente [archivo](Solucion_punto_b.txt)
