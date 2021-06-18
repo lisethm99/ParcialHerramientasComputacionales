@@ -10,7 +10,7 @@ Para recuperarse un poco del tiempo en cuarentena, las cafeterias de la universi
 ### Respuestas punto B
 Las respuestas se encuentran en el siguiente [archivo](Solucion_punto_b.txt)
 
-### Algoritmo Solución
+### Algoritmo Solución punto A
 La solucion se encuentra en el siguiente [archivo](tienda.c)
 ##### Entradas
 - Cedula y Rol de la persona
