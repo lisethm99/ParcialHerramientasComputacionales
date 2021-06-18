@@ -10,7 +10,7 @@ Para recuperarse un poco del tiempo en cuarentena, las cafeterias de la universi
 
 
 ### Algoritmo Solución punto A
-La solucion se encuentra en el siguiente [archivo](tienda.c)
+La solucion puede verse en el archivo [tienda.c](tienda.c)
 ##### Entradas
 - Cedula y Rol de la persona
 - Codigo producto a comprar
@@ -25,4 +25,4 @@ Se debera imprimir el valor a pagar por sus productos de la siguiente forma:
 Despues de recibir los datos del cliente (Cedula,rol, CodProducto,Cantidad), se calcula el precio total de la compra usando el precio del producto, luego este se multiplica por la cantidad escogida. Despues, este valor se multiplica por el porcentaje de descuento que aplique de acuerdo con el rol del cliente y este valor se guarda. Por ultimo, al precio total se le resta el valor de descuento previmante calculado y se imprime el resultado de la orden de compra.
 
 ### Respuestas punto B
-Las respuestas se encuentran en el siguiente [archivo](Solucion_punto_b.txt)
+Las respuestas pueden verse en el archivo:[Solucion_punto_b.txt](Solucion_punto_b.txt)
